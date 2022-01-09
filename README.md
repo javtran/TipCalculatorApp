@@ -36,8 +36,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+The most challenging part while doing this prework was understanding how xcode works, especially how swift is implemented with the UI work. One struggle I had besides the base part of the prework was making the settings page. I wanted to do a dark mode for the tip calculator, but I realized that I needed to understand how to work with 2 pages (how to change appearances of both pages). But through Userdefaults and view controller lifecycle I understood how to change variables and features of both pages. It was overall a very fun experience. 
 
 ## License
 
